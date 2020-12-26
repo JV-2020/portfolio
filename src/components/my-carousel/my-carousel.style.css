@@ -1,0 +1,5 @@
+.custom-img {
+    /* border-top: 20%; */
+    height: 100vh;
+    object-fit: cover;
+  }
